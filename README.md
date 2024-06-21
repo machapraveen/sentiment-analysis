@@ -31,13 +31,11 @@ This project includes:
 2. Install dependencies: ```bash
    pip install -r requirements.txt 
 
-3. Usage       Run Jupyter Notebook:
-
+3. Usage:Run Jupyter Notebook:
   ```bash
-jupyter notebook "sentiment_analysis.ipynb"
-Execute the notebook cells to see the analysis.
+  jupyter notebook "sentiment_analysis.ipynb"
+  Execute the notebook cells to see the analysis.
 
-4. 
 
 
 
